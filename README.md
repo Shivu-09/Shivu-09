@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MCA-AI%20DS-6D28D9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCA-AI&20DS-6D28D9?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/CGPA-9.27%2F10-5B21B6?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Batch-2025--2027-4C1D95?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/B.Sc.%20Hons-Computer%20Science%20%7C%202025-7C3AED?style=for-the-badge&logoColor=white"/>
